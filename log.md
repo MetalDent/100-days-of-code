@@ -12,5 +12,6 @@
 ### Day 2: May 22, Wednesday
 
 **Today's Progress**: I created an android Weather App. Took help from an online guide. 
+
 **Link(s) to work**
 [Weather App](https://github.com/MetalDent/WeatherApp)
