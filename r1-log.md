@@ -15,4 +15,4 @@ Created a chat app (incomplete).
 
 Added a splash screen and some design in the Weather app. 
 
-Update an old app (TestApp). 
+Updated an old app (TestApp). 
