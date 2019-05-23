@@ -15,3 +15,10 @@
 
 **Link(s) to work**
 [Weather App](https://github.com/MetalDent/WeatherApp)
+
+### Day 3: May 23, Thursday
+
+**Today's Progress**: I made a chat app, it is still incomplete. Used firebase for it. 
+
+**Link(s) to work**
+[Chat App](https://github.com/MetalDent/MyChatApp)
