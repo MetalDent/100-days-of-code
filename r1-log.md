@@ -9,3 +9,6 @@ Revised Python. Created three small projects: dice rolling, guess the no and bas
 
 ### R1D2
 Created an android Weather App. 
+
+### R1D3
+Created a chat app (incomplete). 
