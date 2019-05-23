@@ -25,6 +25,6 @@ I added a splash screen in the weather app and also some design.
 I updated the TestApp (ContactsApp). 
 
 **Link(s) to work**
-[Chat App](https://github.com/MetalDent/MyChatApp)
-[Weather App](https://github.com/MetalDent/WeatherApp)
-[ContactsApp](https://github.com/MetalDent/ContactsApp)
+1. [Chat App](https://github.com/MetalDent/MyChatApp)
+2. [Weather App](https://github.com/MetalDent/WeatherApp)
+3. [ContactsApp](https://github.com/MetalDent/ContactsApp)
