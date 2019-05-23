@@ -22,7 +22,7 @@
 
 I added a splash screen in the weather app and also some design. 
 
-I update the TestApp (ContactsApp). 
+I updated the TestApp (ContactsApp). 
 
 **Link(s) to work**
 [Chat App](https://github.com/MetalDent/MyChatApp)
