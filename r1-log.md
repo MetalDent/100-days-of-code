@@ -12,3 +12,4 @@ Created an android Weather App.
 
 ### R1D3
 Created a chat app (incomplete). 
+Added a splash screen and some design in the Weather app. 
