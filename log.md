@@ -31,7 +31,10 @@ I updated the TestApp (ContactsApp).
 
 ### Day 4: May 24, Friday
 
-**Today's Progress**: I practiced turtle, a feature of python and created few animations. 
+**Today's Progress**: I practiced turtle, a feature of python and created few animations.
+
+I also created a turtle race game.  
 
 **Links(s) to work**
-[Turtle Animations](https://github.com/MetalDent/MyCode/tree/master/Python/Turtle)
+1. [Turtle Animations](https://github.com/MetalDent/MyCode/tree/master/Python/Turtle)
+2. [Turtle Race](https://github.com/MetalDent/MyCode/blob/master/Python/Turtle/turtle_race.py)

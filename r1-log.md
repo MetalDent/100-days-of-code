@@ -18,4 +18,6 @@ Added a splash screen and some design in the Weather app.
 Updated an old app (TestApp). 
 
 ### R1D4
-Practiced turtle in python and created few animations. 
+Practiced turtle in python and created few animations.
+
+Created a turtle race game.  
