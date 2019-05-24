@@ -28,3 +28,10 @@ I updated the TestApp (ContactsApp).
 1. [Chat App](https://github.com/MetalDent/MyChatApp)
 2. [Weather App](https://github.com/MetalDent/WeatherApp)
 3. [ContactsApp](https://github.com/MetalDent/ContactsApp)
+
+### Day 4: May 24, Friday
+
+**Today's Progress**: I practiced turtle, a feature of python and created few animations. 
+
+**Links(s) to work**
+[Turtle Animations](https://github.com/MetalDent/MyCode/tree/master/Python/Turtle)

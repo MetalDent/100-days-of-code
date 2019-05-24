@@ -16,3 +16,6 @@ Created a chat app (incomplete).
 Added a splash screen and some design in the Weather app. 
 
 Updated an old app (TestApp). 
+
+### R1D4
+Practiced turtle in python and created few animations. 
