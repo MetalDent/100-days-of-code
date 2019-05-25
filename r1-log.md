@@ -21,3 +21,6 @@ Updated an old app (TestApp).
 Practiced turtle in python and created few animations.
 
 Created a turtle race game.  
+
+## R1D5
+Did one more turtle project for generating random art (colours).

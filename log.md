@@ -38,3 +38,11 @@ I also created a turtle race game.
 **Links(s) to work**
 1. [Turtle Animations](https://github.com/MetalDent/MyCode/tree/master/Python/Turtle)
 2. [Turtle Race](https://github.com/MetalDent/MyCode/blob/master/Python/Turtle/turtle_race.py)
+
+### Day 5: May 25, Saturday
+
+**Today's Progress**: I did one more turtle project for creating random colours (art :P)
+
+**Link(s) to work**
+[Turtle Art](https://github.com/MetalDent/MyCode/blob/master/Python/Turtle/art.py)
+
