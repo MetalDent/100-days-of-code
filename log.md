@@ -48,7 +48,7 @@ I also created a turtle race game.
 
 ### Day 6: May 27, Monday
 
-**Today's Progress**: I made an email sender in python which sends email to multiple receipents. 
+**Today's Progress**: I made an email sender in python which sends email to multiple recipients. 
 
 **Link(s) to work**
 [Email Sender](https://github.com/MetalDent/MyCode/blob/master/Python/email_sender.py)
