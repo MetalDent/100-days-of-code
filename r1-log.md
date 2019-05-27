@@ -24,3 +24,8 @@ Created a turtle race game.
 
 ## R1D5
 Did one more turtle project for generating random art (colours).
+
+## R1D6
+Missed yesterday.
+
+Today I made an email sender in python.

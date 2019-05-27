@@ -46,3 +46,10 @@ I also created a turtle race game.
 **Link(s) to work**
 [Turtle Art](https://github.com/MetalDent/MyCode/blob/master/Python/Turtle/art.py)
 
+### Day 6: May 27, Monday
+
+**Today's Progress**: I made an email sender in python which sends email to multiple receipents. 
+
+**Link(s) to work**
+[Email Sender](https://github.com/MetalDent/MyCode/blob/master/Python/email_sender.py)
+
