@@ -29,3 +29,6 @@ Did one more turtle project for generating random art (colours).
 Missed yesterday.
 
 Today I made an email sender in python.
+
+## R1D7
+I created few python scripts to track trajectories of three birds.
