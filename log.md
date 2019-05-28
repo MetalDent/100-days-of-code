@@ -56,6 +56,7 @@ I also created a turtle race game.
 ### Day 7: May 28, Tuesday
 
 **Today's Progress**: I created few python scripts to track trajectories of three birds (Eric, Nico, Sanne). The dataset came from the LifeWatch INBO project.
+
 **Link(s) to work**
 [Bird Tracker](https://github.com/MetalDent/Bird_Tracking)
 
