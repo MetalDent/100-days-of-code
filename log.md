@@ -4,7 +4,7 @@
 
 **Today's Progress**: I revised Python syntax and many small codes on GeeksForGeeks. Also created three small python projects: dice rolling, guess the no and basic version of hangman. 
 
-**Link(s) to work**
+**Link(s) to work**:
 1. [Dice Rolling](https://github.com/MetalDent/MyCode/blob/master/Python/dice_rolling.py)
 2. [Guess the no](https://github.com/MetalDent/MyCode/blob/master/Python/guess_no.py)
 3. [Hangman](https://github.com/MetalDent/MyCode/blob/master/Python/hangman.py)
@@ -13,7 +13,7 @@
 
 **Today's Progress**: I created an android Weather App. Took help from an online guide. 
 
-**Link(s) to work**
+**Link(s) to work**:
 [Weather App](https://github.com/MetalDent/WeatherApp)
 
 ### Day 3: May 23, Thursday
@@ -24,7 +24,7 @@ I added a splash screen in the weather app and also some design.
 
 I updated the TestApp (ContactsApp). 
 
-**Link(s) to work**
+**Link(s) to work**:
 1. [Chat App](https://github.com/MetalDent/MyChatApp)
 2. [Weather App](https://github.com/MetalDent/WeatherApp)
 3. [ContactsApp](https://github.com/MetalDent/ContactsApp)
@@ -35,7 +35,7 @@ I updated the TestApp (ContactsApp).
 
 I also created a turtle race game.  
 
-**Links(s) to work**
+**Links(s) to work**:
 1. [Turtle Animations](https://github.com/MetalDent/MyCode/tree/master/Python/Turtle)
 2. [Turtle Race](https://github.com/MetalDent/MyCode/blob/master/Python/Turtle/turtle_race.py)
 
@@ -43,20 +43,20 @@ I also created a turtle race game.
 
 **Today's Progress**: I did one more turtle project for creating random colours (art :P)
 
-**Link(s) to work**
+**Link(s) to work**:
 [Turtle Art](https://github.com/MetalDent/MyCode/blob/master/Python/Turtle/art.py)
 
 ### Day 6: May 27, Monday
 
 **Today's Progress**: I made an email sender in python which sends email to multiple recipients. 
 
-**Link(s) to work**
+**Link(s) to work**:
 [Email Sender](https://github.com/MetalDent/MyCode/blob/master/Python/email_sender.py)
 
 ### Day 7: May 28, Tuesday
 
 **Today's Progress**: I created few python scripts to track trajectories of three birds (Eric, Nico, Sanne). The dataset came from the LifeWatch INBO project.
 
-**Link(s) to work**
+**Link(s) to work**:
 [Bird Tracker](https://github.com/MetalDent/Bird_Tracking)
 
