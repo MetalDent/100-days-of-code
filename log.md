@@ -60,3 +60,10 @@ I also created a turtle race game.
 **Link(s) to work**:
 [Bird Tracker](https://github.com/MetalDent/Bird_Tracking)
 
+### Day 8: May 29, Wednesday
+
+**Today's Progress**: I tried to complete the chat app, it had many errors so did it again from scratch, it's almost complete now.
+
+**Link(s) to work**:
+[Chat App](https://github.com/MetalDent/MyChatApp)
+
