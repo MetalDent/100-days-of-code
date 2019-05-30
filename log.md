@@ -67,3 +67,10 @@ I also created a turtle race game.
 **Link(s) to work**:
 [Chat App](https://github.com/MetalDent/MyChatApp)
 
+### Day 9: May 30, Thursday
+
+**Today's Progress**: I created a ToDo Task android app, almost done now, got some problems with my emulator. 
+
+**Link(s) to work**:
+[ToDo Task App](https://github.com/MetalDent/ToDoListApp)
+

@@ -35,3 +35,6 @@ I created few python scripts to track trajectories of three birds.
 
 ## R1D8
 I tried to complete the ChatApp, it's almost finish now.
+
+## R1D9
+Created a ToDo List android app.
