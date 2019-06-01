@@ -33,7 +33,7 @@ I updated the TestApp (ContactsApp).
 
 **Today's Progress**: I practiced turtle, a feature of python and created few animations.
 
-I also created a turtle race game.  
+I also created a turtle race game. 
 
 **Links(s) to work**:
 1. [Turtle Animations](https://github.com/MetalDent/MyCode/tree/master/Python/Turtle)
@@ -70,6 +70,13 @@ I also created a turtle race game.
 ### Day 9: May 30, Thursday
 
 **Today's Progress**: I created a ToDo Task android app, almost done now, got some problems with my emulator. 
+
+**Link(s) to work**:
+[ToDo Task App](https://github.com/MetalDent/ToDoListApp)
+
+### Day 10: May 31, Friday
+
+**Today's Progress**: I completed the ToDo List app, added some nice design. 
 
 **Link(s) to work**:
 [ToDo Task App](https://github.com/MetalDent/ToDoListApp)

@@ -20,7 +20,7 @@ Updated an old app (TestApp).
 ### R1D4
 Practiced turtle in python and created few animations.
 
-Created a turtle race game.  
+Created a turtle race game. 
 
 ## R1D5
 Did one more turtle project for generating random art (colours).
@@ -38,3 +38,6 @@ I tried to complete the ChatApp, it's almost finish now.
 
 ## R1D9
 Created a ToDo List android app.
+
+## R1D10
+Completed the ToDo List android app. 
