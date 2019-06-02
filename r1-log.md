@@ -41,3 +41,8 @@ Created a ToDo List android app.
 
 ## R1D10
 Completed the ToDo List android app. 
+
+## R1D11
+Missed yesterday.
+
+Created a simple Tic Tac Toe game in python.

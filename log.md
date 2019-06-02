@@ -81,3 +81,10 @@ I also created a turtle race game.
 **Link(s) to work**:
 [ToDo Task App](https://github.com/MetalDent/ToDoListApp)
 
+### Day 11: June 2, Sunday
+
+**Today's Progress**: I created a simple Tic Tac Toe game in python.
+
+**Link(s) to work**: 
+{Tic Tac Toe](https://github.com/MetalDent/TicTacToe-python)
+
