@@ -86,5 +86,12 @@ I also created a turtle race game.
 **Today's Progress**: I created a simple Tic Tac Toe game in python.
 
 **Link(s) to work**: 
-{Tic Tac Toe](https://github.com/MetalDent/TicTacToe-python)
+[Tic Tac Toe](https://github.com/MetalDent/TicTacToe-python)
+
+### Day 12: June 3, Monday
+
+**Today's Progress**: I made a music player android application, right it can only play one song, will add more features later.
+
+**Link(s) to work**:
+[Music Player](https://github.com/MetalDent/MusicPlayer)
 
