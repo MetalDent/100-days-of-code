@@ -95,3 +95,12 @@ I also created a turtle race game.
 **Link(s) to work**:
 [Music Player](https://github.com/MetalDent/MusicPlayer)
 
+### Day 13: June 4, Tuesday
+
+**Today's Progress**: I added some designs in music player, rn can't push the app due to some size issues. 
+
+I also made a calendar for this month in python (quite primitive). 
+
+**Link(s) to work**:
+1. [Music Player](https://github.com/MetalDent/MusicPlayer)
+2. [Calendar](https://github.com/MetalDent/MyCode/blob/master/Python/calendar_code.py)
