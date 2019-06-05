@@ -53,4 +53,9 @@ Made a music player android application.
 ## R1D13
 Added some designs in the music player.
 
+## R1D14
+Resolved some problems with the music player.
+
+Created a python script to download images. 
+
 Created a calendar in python.

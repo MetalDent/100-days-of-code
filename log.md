@@ -104,3 +104,19 @@ I also made a calendar for this month in python (quite primitive).
 **Link(s) to work**:
 1. [Music Player](https://github.com/MetalDent/MusicPlayer)
 2. [Calendar](https://github.com/MetalDent/MyCode/blob/master/Python/calendar_code.py)
+
+### Day 14: June 5, Wednesday
+
+**Today's Progress**: I had to resolve some issues with the music player.
+
+I also created a python script to download images. 
+
+**Link(s) to work**:
+1. [Music Player](https://github.com/MetalDent/MusicPlayer)
+2. [Image Downloader](https://github.com/MetalDent/MyCode/blob/master/Python/image_download.py)
+
+
+
+
+
+
