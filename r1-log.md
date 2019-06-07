@@ -56,6 +56,17 @@ Added some designs in the music player.
 ## R1D14
 Resolved some problems with the music player.
 
+## R1D15
+Missed yesterday.
+
+Created a GUI in python for login.
+
+Added a feature in the email_sender to select the recipients from a database.
+
+
+
+
+
 Created a python script to download images. 
 
 Created a calendar in python.

@@ -115,7 +115,15 @@ I also created a python script to download images.
 1. [Music Player](https://github.com/MetalDent/MusicPlayer)
 2. [Image Downloader](https://github.com/MetalDent/MyCode/blob/master/Python/image_download.py)
 
+### Day 15: June 7, Friday
 
+**Today's Progress**: I created a GUI in python for login.
+
+Added a feature in the email_sender to select the recipients from a database.
+
+**Link(s) to work**:
+1. [Login in python](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/login.py)
+2. [Email Sender](https://github.com/MetalDent/MyCode/blob/master/Python/email_sender.py)
 
 
 
