@@ -53,8 +53,12 @@ Made a music player android application.
 ## R1D13
 Added some designs in the music player.
 
+Created a calendar in python.
+
 ## R1D14
 Resolved some problems with the music player.
+
+Created a python script to download images. 
 
 ## R1D15
 Missed yesterday.
@@ -70,6 +74,6 @@ Created a notepad like text editor in python.
 
 
 
-Created a python script to download images. 
 
-Created a calendar in python.
+
+
