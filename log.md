@@ -125,6 +125,14 @@ Added a feature in the email_sender to select the recipients from a database.
 1. [Login in python](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/login.py)
 2. [Email Sender](https://github.com/MetalDent/MyCode/blob/master/Python/email_sender.py)
 
+### Day 16: June 8, Saturday
+
+**Today's Progress**: I created a notepad like text editor in python using Tkinter. 
+
+**Link(s) to work**:
+[Text Editor](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/notepad.py)
+
+
 
 
 
