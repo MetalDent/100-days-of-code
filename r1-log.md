@@ -70,7 +70,8 @@ Added a feature in the email_sender to select the recipients from a database.
 ## R1D16
 Created a notepad like text editor in python. 
 
-
+## R1D17
+Created a python script to scrap data from flipkart.
 
 
 

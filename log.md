@@ -132,7 +132,12 @@ Added a feature in the email_sender to select the recipients from a database.
 **Link(s) to work**:
 [Text Editor](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/notepad.py)
 
+### Day 17: June 9, Sunday
 
+**Today's Progress**: I created a python script to scrap data from flipkart, it's still little incomplete.
+
+**Link(s) to work**: 
+[Web scraping](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping.py)
 
 
 
