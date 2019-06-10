@@ -139,5 +139,20 @@ Added a feature in the email_sender to select the recipients from a database.
 **Link(s) to work**: 
 [Web scraping](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping.py)
 
+### Day 18: June 10, Monday
+
+**Today's Progress**: Created a calculator to convert feet to meters in Tkinter. 
+
+**Link(s) to work**:
+[Convertor](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/conversion.py)
+
+
+
+
+
+
+
+
+
 
 

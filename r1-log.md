@@ -22,56 +22,59 @@ Practiced turtle in python and created few animations.
 
 Created a turtle race game. 
 
-## R1D5
+### R1D5
 Did one more turtle project for generating random art (colours).
 
-## R1D6
+### R1D6
 Missed yesterday.
 
 Today I made an email sender in python.
 
-## R1D7
+### R1D7
 I created few python scripts to track trajectories of three birds.
 
-## R1D8
+### R1D8
 I tried to complete the ChatApp, it's almost finish now.
 
-## R1D9
+### R1D9
 Created a ToDo List android app.
 
-## R1D10
+### R1D10
 Completed the ToDo List android app. 
 
-## R1D11
+### R1D11
 Missed yesterday.
 
 Created a simple Tic Tac Toe game in python.
 
-## R1D12
+### R1D12
 Made a music player android application.
 
-## R1D13
+### R1D13
 Added some designs in the music player.
 
 Created a calendar in python.
 
-## R1D14
+### R1D14
 Resolved some problems with the music player.
 
 Created a python script to download images. 
 
-## R1D15
+### R1D15
 Missed yesterday.
 
 Created a GUI in python for login.
 
 Added a feature in the email_sender to select the recipients from a database.
 
-## R1D16
+### R1D16
 Created a notepad like text editor in python. 
 
-## R1D17
+### R1D17
 Created a python script to scrap data from flipkart.
+
+### R1D18
+Created a calculator to convert feet to meters in Tkinter. 
 
 
 
