@@ -76,6 +76,9 @@ Created a python script to scrap data from flipkart.
 ### R1D18
 Created a calculator to convert feet to meters in Tkinter. 
 
+### R1D19
+Made few changes/modifications in email_sender, webscraper etc.
+
 
 
 

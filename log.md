@@ -51,7 +51,7 @@ I also created a turtle race game.
 **Today's Progress**: I made an email sender in python which sends email to multiple recipients. 
 
 **Link(s) to work**:
-[Email Sender](https://github.com/MetalDent/MyCode/blob/master/Python/email_sender.py)
+[Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
 
 ### Day 7: May 28, Tuesday
 
@@ -113,7 +113,7 @@ I also created a python script to download images.
 
 **Link(s) to work**:
 1. [Music Player](https://github.com/MetalDent/MusicPlayer)
-2. [Image Downloader](https://github.com/MetalDent/MyCode/blob/master/Python/image_download.py)
+2. [Image Downloader](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping/image_download.py)
 
 ### Day 15: June 7, Friday
 
@@ -123,7 +123,7 @@ Added a feature in the email_sender to select the recipients from a database.
 
 **Link(s) to work**:
 1. [Login in python](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/login.py)
-2. [Email Sender](https://github.com/MetalDent/MyCode/blob/master/Python/email_sender.py)
+2. [Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
 
 ### Day 16: June 8, Saturday
 
@@ -137,7 +137,7 @@ Added a feature in the email_sender to select the recipients from a database.
 **Today's Progress**: I created a python script to scrap data from flipkart, it's still little incomplete.
 
 **Link(s) to work**: 
-[Web scraping](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping.py)
+[Web scraping](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping/webscraping.py)
 
 ### Day 18: June 10, Monday
 
@@ -146,6 +146,16 @@ Added a feature in the email_sender to select the recipients from a database.
 **Link(s) to work**:
 [Convertor](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/conversion.py)
 
+### Day 19: June 13, Thursday
+
+**Today's Progress**: I missed two days due to my health.
+
+Made few changes/modifications in email_sender, webscraper etc.
+
+**Link(s) to work**:
+1. [Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
+2. [Web scraping](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping/webscraping.py)
+3. [Image Downloader](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping/image_download.py)
 
 
 
