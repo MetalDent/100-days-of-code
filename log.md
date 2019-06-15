@@ -157,6 +157,13 @@ Made few changes/modifications in email_sender, webscraper etc.
 2. [Web scraping](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping/webscraping.py)
 3. [Image Downloader](https://github.com/MetalDent/MyCode/blob/master/Python/webscraping/image_download.py)
 
+### Day 20: June 14, Friday
+
+**Today's Progress**: Successfully added the feature of adding recipients from a db in email_sender.
+
+**Link(s) to work**:
+[Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
+
 
 
 
