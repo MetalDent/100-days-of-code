@@ -164,6 +164,13 @@ Made few changes/modifications in email_sender, webscraper etc.
 **Link(s) to work**:
 [Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
 
+### Day 21: June 15, Saturday
+
+**Today's Progress**: Now attachments can also be added in email_sender.
+
+**Link(s) to work**:
+[Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
+
 
 
 

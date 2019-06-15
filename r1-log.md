@@ -82,6 +82,17 @@ Made few changes/modifications in email_sender, webscraper etc.
 ### R1D20
 Successfully added the feature of adding recipients from a db in email_sender.
 
+### R1D21
+Now attachments can also be added in email_sender.
+
+
+
+
+
+
+
+
+
 
 
 
