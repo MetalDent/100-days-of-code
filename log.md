@@ -171,6 +171,13 @@ Made few changes/modifications in email_sender, webscraper etc.
 **Link(s) to work**:
 [Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
 
+### Day 22: June 17, Monday
+
+**Today's Progress**: Solved the security problem related to the password in email_sender.
+
+**Link(s) to work**:
+[Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
+
 
 
 
