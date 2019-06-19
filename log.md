@@ -178,6 +178,13 @@ Made few changes/modifications in email_sender, webscraper etc.
 **Link(s) to work**:
 [Email Sender](https://github.com/MetalDent/MyCode/tree/master/Python/email_sender)
 
+### Day 23: June 18, Tuesday
+
+**Today's Progress**: Created a bot for Telegram to send cute dog pictures when you send /woof. 
+
+**Link(s) to work**:
+[DoggoBot](https://github.com/MetalDent/DoggoBot)
+
 
 
 

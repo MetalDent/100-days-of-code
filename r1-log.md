@@ -88,6 +88,9 @@ Now attachments can also be added in email_sender.
 ### R1D22
 Solved the security problem related to the password in email_sender.
 
+### R1D23
+Created a bot for Telegram to send cute dog pictures when you send /woof. 
+
 
 
 
