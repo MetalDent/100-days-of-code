@@ -91,7 +91,11 @@ Solved the security problem related to the password in email_sender.
 ### R1D23
 Created a bot for Telegram to send cute dog pictures when you send /woof. 
 
+### R1D24
+Tried to add feature for kitty images in DoggoBot (not complete).
 
+### R1D25
+Successfully added the feature, just type /purr to get the image.
 
 
 

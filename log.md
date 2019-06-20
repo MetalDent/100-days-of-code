@@ -185,6 +185,22 @@ Made few changes/modifications in email_sender, webscraper etc.
 **Link(s) to work**:
 [DoggoBot](https://github.com/MetalDent/DoggoBot)
 
+### Day 24: June 19, Wednesday
+
+**Today's Progress**: Tried to add a feature in DoggoBot for cat pictures
+
+**Link(s) to work**:
+[DoggoBot](https://github.com/MetalDent/DoggoBot)
+
+### Day 25: June 20, Thursday
+
+**Today's Progress**: Finally, added the feature for kitty images. Used API from thecatapi. To get the image just send /purr.
+
+Also learned a lot about the working of JSON and its conversion into python. 
+
+**Link(s) to work**:
+[DoggoBot](https://github.com/MetalDent/DoggoBot)
+
 
 
 
