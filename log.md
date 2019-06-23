@@ -201,6 +201,20 @@ Also learned a lot about the working of JSON and its conversion into python.
 **Link(s) to work**:
 [DoggoBot](https://github.com/MetalDent/DoggoBot)
 
+### Day 26: June 21, Friday
+
+**Today's Progress**: Did some python programs, will elaborate and add link later.
+
+### Day 27: June 23, Sunday
+
+**Today's Progress**: Did some changes in feet-meters convertor.
+
+Made a calculator in Tkinter.
+
+**Link(s) to work**:
+1. [Convertor](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/conversion.py)
+2. [Calculator](https://github.com/MetalDent/MyCode/blob/master/Python/Tkinter/calculator.py)
+
 
 
 

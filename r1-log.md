@@ -97,6 +97,12 @@ Tried to add feature for kitty images in DoggoBot (not complete).
 ### R1D25
 Successfully added the feature, just type /purr to get the image.
 
+### R1D26
+Made some python programs.
+
+### R1D27
+Created a calculator in Tkinter.
+
 
 
 
