@@ -106,6 +106,13 @@ Created a calculator in Tkinter.
 ### R1D28
 Made some python programs.
 
+### R1D29
+Made some python programs.
+
+### R1D30
+Opened a PR in flutter/plugins.
+
+
 
 
 
