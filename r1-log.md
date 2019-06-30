@@ -112,6 +112,13 @@ Made some python programs.
 ### R1D30
 Opened a PR in flutter/plugins.
 
+### R1D31
+Made some python programs.
+
+### R1D32
+Made some python programs.
+
+
 
 
 

@@ -230,6 +230,15 @@ Made a calculator in Tkinter.
 **Link(s) to work**: 
 [Flutter PR](https://github.com/flutter/plugins/pull/1777)
 
+### Day 31: June 28, Friday
+
+**Today's Progress**: Did some python programs, will elaborate and add link later.
+
+### Day 32: June 30, Saturday
+
+**Today's Progress**: Did some python programs, will elaborate and add link later.
+
+
 
 
 
