@@ -234,9 +234,19 @@ Made a calculator in Tkinter.
 
 **Today's Progress**: Did some python programs, will elaborate and add link later.
 
-### Day 32: June 30, Saturday
+### Day 32: June 30, Sunday
 
 **Today's Progress**: Did some python programs, will elaborate and add link later.
+
+### Day 33: July 2, Tuesday
+
+**Today's Progress**: Did some python programs, will elaborate and add link later.
+
+Also commited in my PR in flutter/plugins.
+
+**Link(s) to work**: 
+[Flutter PR](https://github.com/flutter/plugins/pull/1777)
+
 
 
 
