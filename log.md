@@ -250,15 +250,14 @@ Also commited in my PR in flutter/plugins.
 
 ### Day 34: July 3, Wednesday
 
-**Today's Progress**: Opened a PR in OnsenUI.
+**Today's Progress**: Opened PR in OnsenUI and dart-lang/sdk.
 
 Commited some changes in flutter/pluggins. 
-
-Also working on an issue in dart-lang/sdk.
 
 **Link(s) to work**:
 1. [OnsenUI PR](https://github.com/OnsenUI/OnsenUI/pull/2663)
 2. [Flutter PR](https://github.com/flutter/plugins/pull/1777)
+3. [Dart PR](https://github.com/dart-lang/sdk/pull/37436)
 
 
 
