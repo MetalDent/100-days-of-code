@@ -248,6 +248,19 @@ Also commited in my PR in flutter/plugins.
 [Flutter PR](https://github.com/flutter/plugins/pull/1777)
 
 
+### Day 34: July 3, Wednesday
+
+**Today's Progress**: Opened a PR in OnsenUI.
+
+Commited some changes in flutter/pluggins. 
+
+Also working on an issue in dart-lang/sdk.
+
+**Link(s) to work**:
+1. [OnsenUI PR](https://github.com/OnsenUI/OnsenUI/pull/2663)
+2. [Flutter PR](https://github.com/flutter/plugins/pull/1777)
+
+
 
 
 

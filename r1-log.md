@@ -123,6 +123,13 @@ Made some python programs.
 
 Commited in flutter/pluggins.
 
+### R1D34
+Opened PR in OnsenUI.
+
+Commited in flutter/plugins. 
+
+Working on an issue in dart-lang/sdk.
+
 
 
 
