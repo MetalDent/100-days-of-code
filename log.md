@@ -247,7 +247,6 @@ Also commited in my PR in flutter/plugins.
 **Link(s) to work**: 
 [Flutter PR](https://github.com/flutter/plugins/pull/1777)
 
-
 ### Day 34: July 3, Wednesday
 
 **Today's Progress**: Opened PR in OnsenUI and dart-lang/sdk.
@@ -258,6 +257,19 @@ Commited some changes in flutter/pluggins.
 1. [OnsenUI PR](https://github.com/OnsenUI/OnsenUI/pull/2663)
 2. [Flutter PR](https://github.com/flutter/plugins/pull/1777)
 3. [Dart PR](https://github.com/dart-lang/sdk/pull/37436)
+
+### Day 35: July 4, Thursday
+
+**Today's Progress**: Working on dart-lang/sdk PR and another OnsenUI issue.
+
+Yesterday's OnsenUI PR got merged.
+
+Added some old Vala programs. 
+
+**Link(s) to work**: 
+1. [OnsenUI PR](https://github.com/OnsenUI/OnsenUI/pull/2663)
+2. [Vala](https://github.com/MetalDent/MyCode/tree/master/Vala)
+
 
 
 

@@ -128,6 +128,9 @@ Opened PR in OnsenUI and dart-lang/sdk.
 
 Commited in flutter/plugins. 
 
+### R1D35
+Working on dart-lang/sdk PR and another OnsenUI issue.
+
 
 
 
