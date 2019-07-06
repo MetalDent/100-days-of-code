@@ -131,6 +131,9 @@ Commited in flutter/plugins.
 ### R1D35
 Working on dart-lang/sdk PR and another OnsenUI issue.
 
+### R1D36
+Made a window using PyQt.
+
 
 
 

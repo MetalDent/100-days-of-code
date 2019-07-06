@@ -270,6 +270,13 @@ Added some old Vala programs.
 1. [OnsenUI PR](https://github.com/OnsenUI/OnsenUI/pull/2663)
 2. [Vala](https://github.com/MetalDent/MyCode/tree/master/Vala)
 
+### Day 36: July 6, Saturday
+
+**Today's Progress**: Made a window using PyQt.
+
+**Link(s) to work**:
+[Hello World](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/hello_world.py)
+
 
 
 
