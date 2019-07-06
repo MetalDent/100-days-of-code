@@ -274,8 +274,11 @@ Added some old Vala programs.
 
 **Today's Progress**: Made a window using PyQt.
 
+Working on Gnome Connfa applications (iOS and android) on Gnome GitLab.
+
 **Link(s) to work**:
 [Hello World](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/hello_world.py)
+
 
 
 
