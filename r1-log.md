@@ -136,6 +136,13 @@ Made a window using PyQt.
 
 Working on Gnome Connfa applications.
 
+### R1D37
+Created a signup window using PyQt.
+
+Setup macOS VM.
+
+Worked on dart-lang/sdk PR.
+
 
 
 

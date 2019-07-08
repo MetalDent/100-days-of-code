@@ -279,6 +279,19 @@ Working on Gnome Connfa applications (iOS and android) on Gnome GitLab.
 **Link(s) to work**:
 [Hello World](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/hello_world.py)
 
+### Day 37: July 8, Monday
+
+**Today's Progress**: Created a signup window using PyQt.
+
+Commited a change in dart-lang/sdk.
+
+Set up a macOS VM.
+
+**Link(s) to work**:
+1. [Signup](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/signup.py)
+2. [Dart PR](https://github.com/dart-lang/sdk/pull/37436)
+
+
 
 
 
