@@ -291,6 +291,15 @@ Set up a macOS VM.
 1. [Signup](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/signup.py)
 2. [Dart PR](https://github.com/dart-lang/sdk/pull/37436)
 
+### Day 38: July 9, Tuesday
+
+**Today's Progress**: Created a email sending window using PyQt.
+
+Started working on Gnome GUADEC iOS app development. Changed icon and splash page.
+
+**Link(s) to work**:
+[GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
+
 
 
 

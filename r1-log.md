@@ -143,6 +143,11 @@ Setup macOS VM.
 
 Worked on dart-lang/sdk PR.
 
+### R1D38
+Created email sending window.
+
+Working on GUADEC iOS application.
+
 
 
 
