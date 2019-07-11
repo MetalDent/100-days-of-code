@@ -148,6 +148,9 @@ Created email sending window.
 
 Working on GUADEC iOS application.
 
+### R1D39
+Changed app design of GUADEC iOS. 
+
 
 
 

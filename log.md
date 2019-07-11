@@ -300,6 +300,13 @@ Started working on Gnome GUADEC iOS app development. Changed icon and splash pag
 **Link(s) to work**:
 [GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
 
+### Day 39: July 10, Wednesday 
+
+**Today's Progress**: Changed the app color and theme of the speakers detail section. 
+
+**Link(s) to work**: 
+[GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
+
 
 
 
