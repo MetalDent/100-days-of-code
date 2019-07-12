@@ -151,6 +151,11 @@ Working on GUADEC iOS application.
 ### R1D39
 Changed app design of GUADEC iOS. 
 
+### R140
+Made a message box in PyQt.
+
+Worked on GUADEC iOS. 
+
 
 
 

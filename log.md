@@ -307,6 +307,17 @@ Started working on Gnome GUADEC iOS app development. Changed icon and splash pag
 **Link(s) to work**: 
 [GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
 
+### Day 40: July 12, Friday
+
+**Today's Progress**: Made a message box in PyQt.
+
+Changed GUADEC iOS app color and fonts. 
+
+**Link(s) to work**: 
+1. [Message Box](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/msg.py)
+2. [GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
+
+
 
 
 
