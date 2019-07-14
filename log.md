@@ -317,6 +317,14 @@ Changed GUADEC iOS app color and fonts.
 1. [Message Box](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/msg.py)
 2. [GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
 
+### Day 41: July 13, Saturday
+
+**Today's Progress**: Did some time pass with PyQt :P
+
+**Link(s) to work**:
+1. [Window](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/tp_window.py)
+2. [Box](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/box.py)
+
 
 
 

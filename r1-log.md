@@ -156,6 +156,9 @@ Made a message box in PyQt.
 
 Worked on GUADEC iOS. 
 
+### R1D41
+Made small programs in PyQt.
+
 
 
 
