@@ -159,6 +159,12 @@ Worked on GUADEC iOS.
 ### R1D41
 Made small programs in PyQt.
 
+### R1D42
+SQL in PyQt.
+
+### R1D43
+Worked on a project.
+
 
 
 

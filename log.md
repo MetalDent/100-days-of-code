@@ -325,6 +325,17 @@ Changed GUADEC iOS app color and fonts.
 1. [Window](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/tp_window.py)
 2. [Box](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/box.py)
 
+### Day 42: July 15, Monday
+
+**Today's Progress**: Implemented SQL table using PyQt.
+
+**Link(s) to work**:
+[Table](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/table.py)
+
+### Day 43: July 16, Tuesday
+
+**Today's Progress**: Worked on a project. Link later.
+
 
 
 
