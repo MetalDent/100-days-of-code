@@ -336,6 +336,13 @@ Changed GUADEC iOS app color and fonts.
 
 **Today's Progress**: Worked on a project. Link later.
 
+### Day 44: July 17, Wednesday
+
+**Today's Progress**: Again some time pass with PyQt :P
+
+**Link(s) to work**:
+[Colors/Shapes](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/color_design.py)
+
 
 
 

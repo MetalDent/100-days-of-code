@@ -165,6 +165,9 @@ SQL in PyQt.
 ### R1D43
 Worked on a project.
 
+### R1D44
+Time pass with PyQt.
+
 
 
 
