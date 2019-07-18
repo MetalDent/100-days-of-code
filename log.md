@@ -343,6 +343,13 @@ Changed GUADEC iOS app color and fonts.
 **Link(s) to work**:
 [Colors/Shapes](https://github.com/MetalDent/MyCode/blob/master/Python/PyQt/color_design.py)
 
+### Day 45: July 18, Thursday
+
+**Today's Progress**: Solved some deprecated warnings and changed fonts in GUADEC iOS app.
+
+**Link(s) to work**: 
+[GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
+
 
 
 

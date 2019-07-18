@@ -168,6 +168,9 @@ Worked on a project.
 ### R1D44
 Time pass with PyQt.
 
+### R1D45
+Worked on GUADEC iOS app.
+
 
 
 
