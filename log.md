@@ -350,6 +350,10 @@ Changed GUADEC iOS app color and fonts.
 **Link(s) to work**: 
 [GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
 
+### Day 46: July 19, Friday
+
+**Today's Progress**: Worked on a project. Link later.
+
 
 
 
