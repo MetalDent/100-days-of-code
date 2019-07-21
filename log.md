@@ -354,6 +354,10 @@ Changed GUADEC iOS app color and fonts.
 
 **Today's Progress**: Worked on a project. Link later.
 
+### Day 47: July 20, Saturday
+
+**Today's Progress**: Worked on a project. Link later.
+
 
 
 
