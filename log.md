@@ -354,9 +354,17 @@ Changed GUADEC iOS app color and fonts.
 
 **Today's Progress**: Worked on a project. Link later.
 
-### Day 47: July 20, Saturday
+### Day 47: July 21, Sunday
 
 **Today's Progress**: Worked on a project. Link later.
+
+### Day 48: July 23, Tuesday
+
+**Today's Progress**: Updated GUADEC iOS with new launch images.
+
+Worked on some python programs. 
+
+[GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
 
 
 

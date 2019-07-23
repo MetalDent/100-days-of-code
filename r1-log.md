@@ -177,6 +177,11 @@ Worked on a project.
 ### R1D47
 Worked on a project.
 
+### R1D48
+Worked on GUADEC iOS app.
+
+Small python programs.
+
 
 
 
