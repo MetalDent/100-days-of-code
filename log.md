@@ -366,6 +366,14 @@ Worked on some python programs.
 
 [GUADEC iOS](https://gitlab.gnome.org/Teams/Engagement/Events/connfa/connfa-ios)
 
+### Day 49: July 25, Thursday
+
+**Today's Progress**: Worked on a project. Link later.
+
+### Day 50: July 27, Friday
+
+**Today's Progress**: Worked on a project. Link later.
+
 
 
 

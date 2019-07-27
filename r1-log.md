@@ -182,6 +182,12 @@ Worked on GUADEC iOS app.
 
 Small python programs.
 
+### R1D49
+Worked on a project.
+
+### R1D50
+Worked on a project.
+
 
 
 
