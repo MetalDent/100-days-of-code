@@ -370,9 +370,21 @@ Worked on some python programs.
 
 **Today's Progress**: Worked on a project. Link later.
 
-### Day 50: July 27, Friday
+### Day 50: July 27, Satday
 
 **Today's Progress**: Worked on a project. Link later.
+
+### Day 51: July 29, Monday
+
+**Today's Progress**: Worked on a project. Link later.
+
+### Day 52: July 31, Wednesday
+
+**Today's Progress**: Worked on a project. Link later.
+
+
+
+
 
 
 
