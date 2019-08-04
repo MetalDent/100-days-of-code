@@ -386,6 +386,10 @@ Worked on some python programs.
 
 **Today's Progress**: Worked on a project. Link later.
 
+### Day 54: August 4, Sunday
+
+**Today's Progress**: Worked on some python programs. 
+
 
 
 
