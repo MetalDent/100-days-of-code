@@ -390,6 +390,12 @@ Worked on some python programs.
 
 **Today's Progress**: Worked on some python programs. 
 
+### Day 55: August 5, Monday
+
+**Today's Progress**: Worked on some python programs. 
+
+DS complete.
+
 
 
 
