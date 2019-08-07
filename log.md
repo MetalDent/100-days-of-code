@@ -396,6 +396,18 @@ Worked on some python programs.
 
 DS complete.
 
+### Day 56: August 6, Tuesday
+
+**Today's Progress**: Worked on some python programs. 
+
+Complexity, Algo, etc. complete. 
+
+### Day 57: August 7, Wednesday
+
+**Today's Progress**: Worked on some python programs. 
+
+OOP: objects.
+
 
 
 
