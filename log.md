@@ -408,6 +408,12 @@ Complexity, Algo, etc. complete.
 
 OOP: objects.
 
+### Day 58: August 9, Friday
+
+**Today's Progress**: Worked on some python programs. 
+
+OOP: class.
+
 
 
 
