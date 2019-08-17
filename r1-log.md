@@ -212,6 +212,21 @@ Small python programs.
 ### R1D58
 Small python programs.
 
+### R1D59
+Small python programs.
+
+### R1D60
+Small python programs.
+
+### R1D61
+Small python programs.
+
+### R1D62
+dart-lang/sdk PR merged.
+
+### R1D63
+Bug fixes.
+
 
 
 

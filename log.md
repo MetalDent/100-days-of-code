@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+### 100 Days Of Code - Log
 
 ### Day 1: May 21, Tuesday
 
@@ -413,6 +413,34 @@ OOP: objects.
 **Today's Progress**: Worked on some python programs. 
 
 OOP: class.
+
+### Day 59: August 11, Sunday
+
+**Today's Progress**: Worked on some python programs. 
+
+OOP: Inheritance
+
+### Day 60: August 12, Monday
+
+**Today's Progress**: Worked on some python programs. 
+
+OOP: Pythonic
+
+### Day 61: August 14, Wednesday
+
+**Today's Progress**: Worked on some python programs. 
+
+### Day 62: August 16, Friday
+
+**Today's Progress**: Merged dart-lang/sdk PR.
+
+### Day 63: August 17, Saturday
+
+**Today's Progress**: Bug fixes in ContactsApp.
+
+
+
+
 
 
 
