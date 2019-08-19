@@ -225,7 +225,10 @@ Small python programs.
 dart-lang/sdk PR merged.
 
 ### R1D63
-Bug fixes.
+Bug fixes in ContactsApp.
+
+### R1D64
+Update app notification in ContactsApp.
 
 
 

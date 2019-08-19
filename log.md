@@ -434,9 +434,22 @@ OOP: Pythonic
 
 **Today's Progress**: Merged dart-lang/sdk PR.
 
+**Link(s) to work**:
+[Dart PR](https://github.com/dart-lang/sdk/pull/37436)
+
 ### Day 63: August 17, Saturday
 
 **Today's Progress**: Bug fixes in ContactsApp.
+
+**Link(s) to work**:
+[ContactsApp](https://github.com/MetalDent/ContactsApp)
+
+### Day 64: August 19, Monday
+
+**Today's Progress**: Added app update notification in ContactsApp.
+
+**Link(s) to work**:
+[ContactsApp](https://github.com/MetalDent/ContactsApp)
 
 
 
