@@ -451,6 +451,34 @@ OOP: Pythonic
 **Link(s) to work**:
 [ContactsApp](https://github.com/MetalDent/ContactsApp)
 
+### Day 65: August 21, Wednesday
+
+**Today's Progress**: Update the ContactsApp.
+
+**Link(s) to work**:
+[ContactsApp](https://github.com/MetalDent/ContactsApp)
+
+### Day 66: August 22, Thursday
+
+**Today's Progress**: Worked on some java codes.
+
+**Link(s) to work**:
+[Java Codes](https://github.com/MetalDent/MyCode/tree/master/java)
+
+### Day 67: August 24, Saturday
+
+**Today's Progress**: Joined the Programming Society, IIIT Bhubaneswar.
+**Link(s) to work**:
+[P-Soc](https://github.com/p-society)
+
+### Day 68: August 26, Monday
+
+**Today's Progress**: Worked on a project. Link later.
+
+### Day 69: August 28, Wednesday
+
+**Today's Progress**: Worked on a project. Link later.
+
 
 
 

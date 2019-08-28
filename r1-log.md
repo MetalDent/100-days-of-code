@@ -230,15 +230,17 @@ Bug fixes in ContactsApp.
 ### R1D64
 Update app notification in ContactsApp.
 
+### R1D65
+Updated ContactsApp.
 
+### R1D66
+Some Java programs.
 
+### R1D67
+Joined p-soc.
 
+### R1D68
+Worked on a project.
 
-
-
-
-
-
-
-
-
+### R1D69
+Worked on a project.
