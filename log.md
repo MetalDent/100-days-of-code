@@ -531,7 +531,7 @@ Created an alert app.
 
 **Link(s) to work**:
 1. [Practice-Django](https://github.com/MetalDent/MyCode/tree/master/Django)
-2.[AlertApp](https://github.com/MetalDent/AlertApp)
+2. [AlertApp](https://github.com/MetalDent/AlertApp)
 
 
 
