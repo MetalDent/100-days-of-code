@@ -483,6 +483,56 @@ OOP: Pythonic
 
 **Today's Progress**: Worked on a project. Link later.
 
+### Day 71: August 31, Saturday
+
+**Today's Progress**: Worked on a project. Link later.
+
+### Day 72: September 3, Tuesday
+
+**Today's Progress**: Worked on a project. Link later.
+
+### Day 73: September 4, Wednesday
+
+**Today's Progress**: Opened a PR in flutter/pluggins.
+
+**Link(s) to work**: 
+[Flutter PR](https://github.com/flutter/plugins/pull/2037)
+
+### Day 74: September 5, Thursday
+
+**Today's Progress**: Created an issue in deepmind/open_spiel and opened a PR.
+
+**Link(s) to work**: 
+[Deep Mind PR](https://github.com/deepmind/open_spiel/pull/28)
+
+### Day 75: September 7, Saturday
+
+**Today's Progress**: Created few java programs.
+
+**Link(s) to work**: 
+[Java programs](https://github.com/MetalDent/MyCode/tree/master/java/Lab)
+
+### Day 76: September 9, Monday
+
+**Today's Progress**: Worked on a project. Link later.
+
+### Day 77: September 10, Tuesday
+
+**Today's Progress**: Created a repo for my RDBMS lab project.
+
+**Link(s) to work**:
+[Smart Parking System](https://github.com/MetalDent/Smart-Parking-System)
+
+### Day 78: September 11, Wednesday
+
+**Today's Progress**: Made a practice django project.
+
+Created an alert app.
+
+**Link(s) to work**:
+1. [Practice-Django](https://github.com/MetalDent/MyCode/tree/master/Django)
+2.[AlertApp](https://github.com/MetalDent/AlertApp)
+
 
 
 

@@ -247,3 +247,28 @@ Worked on a project.
 
 ### R1D70
 Worked on a project.
+
+### R1D71
+Worked on a project.
+
+### R1D72
+Worked on a project.
+
+### R1D73
+Opened a PR in flutter/pluggins.
+
+### R1D74
+Opened an issue and PR in deepmind/open-spiel.
+
+### R1D75
+Worked on a few java programs.
+
+### R1D76
+Worked on a project.
+
+### R1D77
+Worked on RDBMS lab project.
+
+### R1D78
+Created a django project and an android alert app.
+
