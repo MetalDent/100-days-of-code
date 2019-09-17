@@ -533,6 +533,44 @@ Created an alert app.
 1. [Practice-Django](https://github.com/MetalDent/MyCode/tree/master/Django)
 2. [AlertApp](https://github.com/MetalDent/AlertApp)
 
+### Day 79: September 12, Thursday
+
+**Today's Progress**: Worked on the AlertApp.
+
+Opened a PR in cockpit-project/cockpit.
+
+**Link(s) to work**:
+1. [Cockpit PR](https://github.com/cockpit-project/cockpit/pull/12772)
+2. [AlertApp](https://github.com/MetalDent/AlertApp)
+
+### Day 80: September 14, Saturday
+
+**Today's Progress**: Made a python project. Link later.
+
+### Day 81: September 15, Sunday
+
+**Today's Progress**: Worked on the AlertApp.
+
+**Link(s) to work**:
+[AlertApp](https://github.com/MetalDent/AlertApp)
+
+### Day 82: September 16, Monday
+
+**Today's Progress**: Opened PRs in cockpit-project/cockpit and Coding-Coach/coding-coach.
+
+**Link(s) to work**:
+1. [Cockpit PR](https://github.com/cockpit-project/cockpit/pull/12807)
+2. [Coding Coach PR](https://github.com/Coding-Coach/coding-coach/pull/355)
+
+### Day 83: September 17, Tuesday
+
+**Today's Progress**: Worked on the AlertApp.
+
+**Link(s) to work**:
+[AlertApp](https://github.com/MetalDent/AlertApp)
+
+
+
 
 
 

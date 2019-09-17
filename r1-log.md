@@ -272,3 +272,20 @@ Worked on RDBMS lab project.
 ### R1D78
 Created a django project and an android alert app.
 
+### R1D79
+Worked on AlertApp and opened PR in cockpit-project.
+
+### R1D80
+Created a python project.
+
+### R1D81
+Opened PRs in cockpit-project/cockpit and Coding-Coach/coding-coach.
+
+### R1D82
+Created a django project and an android alert app.
+
+### R1D83
+Worked on the AlertApp.
+
+
+
