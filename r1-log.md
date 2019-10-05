@@ -287,5 +287,32 @@ Created a django project and an android alert app.
 ### R1D83
 Worked on the AlertApp.
 
+### R1D84
+Coding coach PR merged.
 
+### R1D85
+Worked on the AlertApp.
 
+### R1D86
+Worked on a project.
+
+### R1D87
+Add some java codes.
+
+### R1D88
+Worked on a project.
+
+### R1D89
+Worked on the AlertApp.
+
+### R1D90
+Update the ContactsApp.
+
+### R1D91
+Update the ContactsApp.
+
+### R1D92
+Create navi PR.
+
+### R1D93
+Create weblate PR.

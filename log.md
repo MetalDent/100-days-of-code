@@ -569,28 +569,66 @@ Opened a PR in cockpit-project/cockpit.
 **Link(s) to work**:
 [AlertApp](https://github.com/MetalDent/AlertApp)
 
+### Day 84: September 18, Wednesday
 
+**Today's Progress**: Coding coach PR merged.
 
+**Link(s) to work**:
+[Coding Coach PR](https://github.com/Coding-Coach/coding-coach/pull/355)
 
+### Day 85: September 19, Thursday
 
+**Today's Progress**: Worked on the AlertApp.
 
+**Link(s) to work**:
+[AlertApp](https://github.com/MetalDent/AlertApp)
 
+### Day 86: September 21, Saturday
 
+**Today's Progress**: Worked on a project. Link later.
 
+### Day 87: September 23, Monday
 
+**Today's Progress**: Add some java codes.
 
+**Link(s) to work**:
+[Java](https://github.com/MetalDent/MyCode/tree/master/java/Lab/D3)
 
+### Day 88: September 25, Wednesday
 
+**Today's Progress**: Worked on a project. Link later.
 
+### Day 89: September 27, Friday
 
+**Today's Progress**: Worked on the AlertApp.
 
+**Link(s) to work**:
+[AlertApp](https://github.com/MetalDent/AlertApp)
 
+### Day 90: September 29, Sunday
 
+**Today's Progress**: Update the ContactsApp.
 
+**Link(s) to work**:
+[ContactsApp](https://github.com/MetalDent/ContactsApp)
 
+### Day 91: October 1, Tuesday
 
+**Today's Progress**: Update the ContactsApp.
 
+**Link(s) to work**:
+[ContactsApp](https://github.com/MetalDent/ContactsApp)
 
+### Day 92: October 3, Thurseday
 
+**Today's Progress**: Create navi PR.
 
+**Link(s) to work**:
+[navi PR](https://github.com/denisidoro/navi/pull/109)
 
+### Day 93: October 5, Saturday
+
+**Today's Progress**: Create weblate PR.
+
+**Link(s) to work**:
+[weblate PR](https://github.com/WeblateOrg/weblate/pull/3090)
