@@ -649,8 +649,11 @@ Opened a PR in cockpit-project/cockpit.
 
 ### Day 96: October 8, Tuesday
 
-**Today's Progress**: Forked Telimena and Moya.
+**Today's Progress**: Forked Telimena, Moya, dotnet/docs, dotnet/samples.
+
+Created a PR in dotnet/samples.
 
 **Link(s) to work**:
 1. [Telimena](https://github.com/MetalDent/Telimena)
 2. [Moya](https://github.com/MetalDent/Moya)
+3. [dotnet/samples](https://github.com/dotnet/samples/pull/1613)

@@ -324,4 +324,4 @@ Worked on nikola.
 Worked on FSharp.Data.JsonValidation.
 
 ### R1D96
-Worked on Telimena, Moya.
+Worked on Telimena, Moya. Opened PR in dotnet/samples.
