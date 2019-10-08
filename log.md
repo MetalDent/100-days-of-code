@@ -632,3 +632,25 @@ Opened a PR in cockpit-project/cockpit.
 
 **Link(s) to work**:
 [weblate PR](https://github.com/WeblateOrg/weblate/pull/3090)
+
+### Day 94: October 6, Sunday
+
+**Today's Progress**: Forked nikola to work on it.
+
+**Link(s) to work**:
+[nikola](https://github.com/MetalDent/nikola)
+
+### Day 95: October 7, Monday
+
+**Today's Progress**: Forked FSharp.Data.JsonValidation.
+
+**Link(s) to work**:
+[FSharp.Data.JsonValidation](https://github.com/MetalDent/FSharp.Data.JsonValidation)
+
+### Day 96: October 8, Tuesday
+
+**Today's Progress**: Forked Telimena and Moya.
+
+**Link(s) to work**:
+1. [Telimena](https://github.com/MetalDent/Telimena)
+2. [Moya](https://github.com/MetalDent/Moya)

@@ -316,3 +316,12 @@ Create navi PR.
 
 ### R1D93
 Create weblate PR.
+
+### R1D94
+Worked on nikola.
+
+### R1D95
+Worked on FSharp.Data.JsonValidation.
+
+### R1D96
+Worked on Telimena, Moya.
