@@ -325,3 +325,15 @@ Worked on FSharp.Data.JsonValidation.
 
 ### R1D96
 Worked on Telimena, Moya. Opened PR in dotnet/samples.
+
+### R1D97
+Opened a PR in dotnet/samples.
+
+### R1D98
+Forked Vison-WoC-Frontend.
+
+### R1D99
+Merged dotnet/samples(1) PR.
+
+### R1D100
+Forked plotsbot to work on.

@@ -655,5 +655,35 @@ Created a PR in dotnet/samples.
 
 **Link(s) to work**:
 1. [Telimena](https://github.com/MetalDent/Telimena)
-2. [Moya](https://github.com/MetalDent/Moya)
+2. [Moya](https://githubhttps://github.com/MetalDent/Vison-WoC-Frontend.com/MetalDent/Moya)
 3. [dotnet/samples](https://github.com/dotnet/samples/pull/1613)
+
+### Day 97: October 9, Wednesday
+
+**Today's Progress**: Opened a PR in dotnet/samples.
+
+**Link(s) to work**:
+[dotnet/samples(2)](https://github.com/dotnet/samples/pull/1618)
+
+### Day 98: October 10, Thursday
+
+**Today's Progress**: Forked Vison-WoC-Frontend.
+
+**Link(s) to work**:
+[Vison-WoC-Frontend](https://github.com/MetalDent/Vison-WoC-Frontend)
+
+### Day 99: October 11, Friday
+
+**Today's Progress**: Merged dotnet/samples(1) PR.
+
+**Link(s) to work**:
+[dotnet/samples](https://github.com/dotnet/samples/pull/1613)
+
+### Day 100: October 14, Monday
+
+**Today's Progress**: Forked plotsbot to work on.
+
+Missed two days due in travel. 
+
+**Link(s) to work**:
+[plotsbot](https://github.com/MetalDent/plotsbot)
